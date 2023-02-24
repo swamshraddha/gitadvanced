@@ -1,3 +1,1 @@
 # gitadvanced
-
-Initial Commit 
