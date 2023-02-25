@@ -1,6 +1,5 @@
 # gitadvanced
 
-<<<<<<< HEAD
 Initial Commit 
 
 
@@ -16,6 +15,3 @@ fourth commit1!!
 
 
 
-=======
-Initial Commit 
->>>>>>> parent of 46eb12c (first commit)
